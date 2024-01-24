@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BankAccounts</string>
+    <string name="account">%1$s</string>
+</resources>
